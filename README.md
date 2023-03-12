@@ -31,6 +31,8 @@ number4[0] = 9;
 
 console.log(number3[0], number4[0]); --> => 9, 9
 
+---
+
 ### References
 
 - 2.1 ใช้ const สำหรับค่าคงที่ และหลีกเลี่ยงการใช้ var
