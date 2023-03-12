@@ -93,7 +93,3 @@ console.log(num1); --> ReferenceError เมื่อออกนอกปีก
 console.log(num2); --> ReferenceError เมื่อออกนอกปีกกาที่ประกาศจะไม่สามารถเรียกใช้งานตัวแปรได้
 
 ```
-
-```
-
-```
