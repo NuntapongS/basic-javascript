@@ -24,12 +24,16 @@ console.log(number1, number2); --> => 1, 9
 `array`
 `function`
 
+```
+
 const number3 = [1, 2];
 const number4 = number3;
 
 number4[0] = 9;
 
 console.log(number3[0], number4[0]); --> => 9, 9
+
+```
 
 ### References
 
